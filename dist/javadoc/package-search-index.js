@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"admingui"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"customergui"},{"l":"electricbills"},{"l":"operatorgui"}];updateSearchResults();
